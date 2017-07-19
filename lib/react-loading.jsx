@@ -32,7 +32,7 @@ export default class Loading extends Component {
     delayed: false,
   };
 
-  componentWillMount() {
+  componentDidMount() {
     const { delay } = this.props;
     const delayed = delay > 0;
 

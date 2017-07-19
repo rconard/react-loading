@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fakiolinho/react-loading.git"
+    "url": "https://github.com/rconard/react-loading.git"
   },
   "keywords": [
     "loading",
@@ -31,9 +31,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fakiolinho/react-loading/issues"
+    "url": "https://github.com/rconard/react-loading/issues"
   },
-  "homepage": "https://github.com/fakiolinho/react-loading",
+  "homepage": "https://github.com/rconard/react-loading",
   "peerDependencies": {
     "react": ">=0.14.0",
     "prop-types": "^15.5.8"
